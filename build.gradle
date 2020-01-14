@@ -1,4 +1,4 @@
-plugins {
+﻿plugins {
 	id 'org.springframework.boot' version '2.2.2.RELEASE'
 	id 'io.spring.dependency-management' version '1.0.8.RELEASE'
 	id 'java'
@@ -23,6 +23,7 @@ dependencies {
 	// asasdasdas
 	// other
 	// hoya1 재커밋
+	// 111111111111111111111111
 
 }
 
